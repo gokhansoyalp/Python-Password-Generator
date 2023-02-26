@@ -1,0 +1,1 @@
+Güvenliğin için, ayda 1 rastgele güvenli şifre oluştur.
